@@ -1,1 +1,2 @@
  1 iniciar repositorio y crear readme
+ 2 crear ramas primeras 
